@@ -1,6 +1,8 @@
 # Video game radar IRL
 While participating in Airsoft, I needed a way to find my allys. So I went about making a radar for me to locate them.
 
+![Ring of LEDs pointing north compared to a compass.](Images/North.jpg)
+
 ## A work in progress
 I decided I would use mobile phones to run the software so have started my journey into android app development. However I am a complete beginner still!
 
